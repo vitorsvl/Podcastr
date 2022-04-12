@@ -42,3 +42,5 @@ Api, requisição...exemplos (1h10min Aula 2)
 
 
 parei aula 3 14min
+
+46min
