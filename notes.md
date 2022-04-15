@@ -43,4 +43,18 @@ Api, requisição...exemplos (1h10min Aula 2)
 
 parei aula 3 14min
 
-46min
+54min
+
+[slug] - nome do arquivo .js (tsx) slug = qualquer coisa
+
+#### Context: Comuicação entre componentes
+
+
+Funções de mudança no contexto:
+* cria a função dentro do MyApp
+* passa a função no contexto (context provider)
+* coloca a função dentro do Context (arquivo .ts)
+* coloca a função na tipagem (?)
+* usa a função no retorno do componente (HTML)
+32min
+
