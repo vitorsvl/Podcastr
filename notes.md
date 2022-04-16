@@ -58,3 +58,8 @@ Funções de mudança no contexto:
 * usa a função no retorno do componente (HTML)
 32min
 
+Arquivos .tsx : TypeScript com <Componentes />
+
+
+#### Problema: if na função playNext nunca é acessado (~21min da aula 5)
+
